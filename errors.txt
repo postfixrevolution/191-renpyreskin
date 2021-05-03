@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 406: style property text_text_align is not known.
+    text_text_align 0.5
+                   ^
+
+Ren'Py Version: Ren'Py 7.4.4.1439
+Mon May  3 09:28:03 2021
